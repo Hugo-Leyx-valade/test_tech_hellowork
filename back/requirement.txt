@@ -1,1 +1,4 @@
 Flask
+pymongo[srv]==3.11
+requests
+BeautifulSoup4
