@@ -1,0 +1,9 @@
+{
+    "nombre_offres": 100,
+    "nombre_entreprises": 55,
+    "repartition_type_contrat": {
+        "('Temps plein',)": 79,
+        "('Contractant / Freelance / Entrepreneur individuel',)": 15,
+        "('Temps plein / temps partiel',)": 6
+    }
+}
