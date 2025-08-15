@@ -1,6 +1,6 @@
 # Installation et lancement
 
- - Cloner le repository dans un dossier
+ - Cloner le repository
  - Ouvrir votre éditeur de code
  - Installer les packages nécessaires 
 	  `pip install -r requirement.txt`
