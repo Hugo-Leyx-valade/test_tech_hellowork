@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
+import os
+
+
 
 page_number = 0
 pattern = re.compile(r'^BaseJobCard_container__')
